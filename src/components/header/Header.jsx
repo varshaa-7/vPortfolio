@@ -274,7 +274,7 @@ import { useRef } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import "./main.css";
 
-function Navbar() {
+function Header() {
 	const navRef = useRef();
 
 	const showNavbar = () => {
@@ -312,4 +312,4 @@ function Navbar() {
 	);
 }
 
-export default Navbar;
+export default Header;
