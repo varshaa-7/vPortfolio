@@ -1,5 +1,5 @@
 import React from 'react'
-import Header from './components/header/Header1'
+import Header1 from './components/header/Header1'
 import Footer from './components/footer/Footer'
 import { Outlet } from 'react-router-dom'
 
