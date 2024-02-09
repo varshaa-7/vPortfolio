@@ -3,7 +3,7 @@ import { useState } from 'react'
 import './App.css'
 import Footer from './components/footer/footer'
 import Header from './components/header/header'
-import Home from './components/home/home'
+import Home from './components/home/Home'
 
 function App() {
   
